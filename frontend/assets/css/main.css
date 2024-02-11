@@ -14,12 +14,16 @@
 }
 
 #Me{
+    display: flex;
+    justify-content: center;
     background-color: ivory;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
 #others{
+    display: flex;
+    justify-content: center;
     background-color: ivory;
     margin-top: 5px;
     margin-bottom: 5px;
